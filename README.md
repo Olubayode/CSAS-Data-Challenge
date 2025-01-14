@@ -1,5 +1,3 @@
-# CSAS-Data-Challenge
-
 # CSAS Bayesian Analysis for Bat Speed and Swing Length
 
 ## Installation and Dependencies
