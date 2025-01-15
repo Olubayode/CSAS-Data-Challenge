@@ -3,6 +3,12 @@
 ## Installation and Dependencies
 
 ### Installing the Dependencies
+ 
+ **Software Needed:**
+These are tools user needs before starting or running the python notebook:
+- Git
+- Anaconda
+- Python 3.10.
 
 To install the dependencies to run the notebook provided in this repository, follow these steps after you have [anaconda](https://www.anaconda.com/products/individual#Downloads) install on your computer: 
 
@@ -18,7 +24,7 @@ To install the dependencies to run the notebook provided in this repository, fol
 
    The cloned repository will contain the following major files:
    - `CausalModel.ipynb` (Jupyter Notebook for the analysis)
-   - `environment.yml` (environment specification file)
+   - `environment.yml` (environment specification file i.e  The file defines the environment and dependencies required to run the analysis)
    - `statcast_pitch_swing_data_20240402_20240630.arrow` (dataset file)
 
 2. **Set Up the Environment:**
