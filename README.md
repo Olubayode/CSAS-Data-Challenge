@@ -80,6 +80,7 @@ To install the dependencies to run the notebook provided in this repository, fol
      pip install pyarrow
      ```
    - These packages are necessary to access the datasets provided in the repository.
+   - Once all the above steps are completed, you can start running the CausalModel.ipynb file. Please ensure that the kernel selected for running the notebook is set to "Python 3.10 (CSAS Data Challenge)", unless you used a different name during setup.
 
 ---
 
