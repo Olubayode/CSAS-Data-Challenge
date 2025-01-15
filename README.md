@@ -2,7 +2,7 @@
 
 ## Installation and Dependencies
 
-### Installing the Dependencies
+
  
  **Software Needed:**
 These are tools user needs before starting or running the python notebook:
