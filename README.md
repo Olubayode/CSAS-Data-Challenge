@@ -50,7 +50,7 @@ To install the dependencies to run the notebook provided in this repository, fol
      python -m ipykernel install --user --name stat-rethink2-pymc4 --display-name "Python 3.10 (CSAS Data Challenge)"
      ```
 
-   #### Explanation of Your Command:
+   #### Explanation of Command:
    1. `--name stat-rethink2-pymc4`:
       - Internally registers the kernel with the name `stat-rethink2-pymc4`. This is how Jupyter identifies the kernel behind the scenes.
    2. `--display-name "Python 3.10 (CSAS Data Challenge)"`:
