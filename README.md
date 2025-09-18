@@ -141,10 +141,10 @@ For more information about Bayesian analysis and how PyMC works, check out the [
 
 The publication about the challenge and the abstract are found below:
 - **Challenge and Finalist Page:**
-  -Here is the [Finalist](https://statds.org/events/csas2025/challenge.html) page
+  - Here is the [Finalist](https://statds.org/events/csas2025/challenge.html) page
   
 - **Paper Abstract Page located in #16:**
-  -Here is the [Published Abstract](https://statds.org/events/csas2025/sessions.html) page
+  - Here is the [Published Abstract](https://statds.org/events/csas2025/sessions.html) page
 
 ## License
 
