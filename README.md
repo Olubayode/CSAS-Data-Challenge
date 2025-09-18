@@ -137,6 +137,14 @@ And here is the [Glossary](https://baseballsavant.mlb.com/visuals/swing-take?pla
 For more information about Bayesian analysis and how PyMC works, check out the [Statistical Rethinking materials](https://github.com/pymc-devs/pymc-resources/tree/main/Rethinking_2).
 
 ---
+### Award Page
+
+The publication about the challenge and the abstract are found below:
+- **Challenge and Finalist Page:**
+  -Here is the [Finalist](https://statds.org/events/csas2025/challenge.html) page
+  
+- **Paper Abstract Page located in #16:**
+  -Here is the [Published Abstract]([https://statds.org/events/csas2025/challenge.html](https://statds.org/events/csas2025/sessions.html)) page
 
 ## License
 
